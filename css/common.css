@@ -3,7 +3,15 @@ body{
     color: darkorchid;
 }
 .hobbies{
+    background-color: lightblue;
     padding: 10px;
     font-style: italic;
     border: 1px solid black;
+}
+.skills{
+    margin-top: 20px;
+    background-color: lightgreen;
+    padding: 10px;
+    font-style: italic;
+    border: 1px solid orange;
 }
