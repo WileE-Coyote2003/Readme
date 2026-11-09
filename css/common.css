@@ -1,0 +1,9 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkorchid;
+}
+.hobbies{
+    padding: 10px;
+    font-style: italic;
+    border: 1px solid black;
+}
